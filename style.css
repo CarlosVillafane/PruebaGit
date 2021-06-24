@@ -1,0 +1,22 @@
+*{
+    padding:0%;
+    margin:0;
+    box-sizing: border-box;
+}
+ 
+@media (orientation: landscape) {
+
+body{
+    background-image: url('imagenes/circle.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+}
+
+
